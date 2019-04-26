@@ -1,4 +1,26 @@
 <!DOCTYPE html> 
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
 <html> 
     <head> 
         <meta charset="utf-8"> 
@@ -26,10 +48,10 @@
    <img src="21.JPG" alt="Lasercut on 2 sides" height=200>
  </div>
  <div class="column">
-   <img src="22.JPG" alt="Forest" style="width:100%">
+   <img src="22.JPG" alt="Forest" height=200>
  </div>
  <div class="column">
-   <img src="23.JPG" alt="Mountains" style="width:100%">
+   <img src="23.JPG" alt="Mountains" height=200>
  </div>
 </div>
     <img src="21.JPG" height=200></a>
