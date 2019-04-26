@@ -1,1 +1,56 @@
+<!DOCTYPE html> 
+<html> 
+    <head> 
+        <meta charset="utf-8"> 
+        <meta name="viewport" content="width=device-width, maximum-scale=1.0" />
 
+        <title>Attempt 2</title> 
+
+        <link href="style.css" media="screen" rel="stylesheet" type="text/css" />
+
+    </head> 
+    <body> 
+
+        <div class="header">
+            <h1>Lampshade</h1>
+            </p>
+            <p>
+            <p>
+
+            </p>
+To further explore the shapes, I commited to this week assigment and designed a hexagon lampshade, which will look more or less like this:
+            </p>
+                <img src="L1.JPG" height=200></a>
+
+       <p>
+            </p>
+               The angles of a hexagon are bigger than a triangle and this resulted in some printing problems, as shown below on the left. 
+               Therefore I decided to support the print with a pattern that complements the design. This worked better as shown on the right.
+            </p>
+                <img src="L2.JPG" height=400></a>
+                   <img src="L3.JPG" height=400></a>
+</p>
+For the lasercut I made the following design in grasshopper 
+  </p>
+                <img src="L41.JPG" height=200></a>
+
+       <p>
+            </p>
+            The pattern is partly hatched to print on lateron and partly cut for a light effect. 
+            I set the coordinates of the lasercutter for the first cut, turned the cut pieces around while leaving the plate in place and 
+            used the same coordinates for the hatch on the backside. This worked well: 
+              </p>
+                <img src="L4.JPG" height=200></a>
+
+       <p>
+            </p>
+And the pieces fitted nicely together:
+ </p>
+                <img src="L5.JPG" height=200></a>
+                <img src="L6.JPG" height=200></a>
+
+       <p>
+            </p>
+        
+    </body>
+</html>
